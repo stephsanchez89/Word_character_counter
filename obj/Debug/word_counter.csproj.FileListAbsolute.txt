@@ -1,0 +1,10 @@
+C:\Users\Eduardo\source\repos\word_counter\bin\Debug\word_counter.exe.config
+C:\Users\Eduardo\source\repos\word_counter\bin\Debug\word_counter.exe
+C:\Users\Eduardo\source\repos\word_counter\bin\Debug\word_counter.pdb
+C:\Users\Eduardo\source\repos\word_counter\obj\Debug\word_counter.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\word_counter\obj\Debug\word_counter.Form1.resources
+C:\Users\Eduardo\source\repos\word_counter\obj\Debug\word_counter.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\word_counter\obj\Debug\word_counter.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\word_counter\obj\Debug\word_counter.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\word_counter\obj\Debug\word_counter.exe
+C:\Users\Eduardo\source\repos\word_counter\obj\Debug\word_counter.pdb
